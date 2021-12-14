@@ -1,6 +1,6 @@
 # Text summarization Project
 ### Goal : 
-We will use "Abstractive Text Summarization" approach to identify the important sections, interpret the context and reproduce in a new way. This ensures that the core information is conveyed through shortest text possible, the sentences in summary are generated, not just extracted from original text.
+We used "Abstractive Text Summarization" approach to identify the important sections, interpret the context and reproduce in a new way. This ensures that the core information is conveyed through the shortest text possible, the sentences in summary are generated, not just extracted from the original text.
 
 ### Question : 
 Is the model able to summarize the text while retaining the most important information?
